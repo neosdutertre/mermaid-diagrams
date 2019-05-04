@@ -1,3 +1,5 @@
+Adaptation targets to apply on Azure devOps
+
 # mermaid-diagrams
 A simple chrome extension to add support for [mermaid](http://knsv.github.io/mermaid/index.html) syntax in github pages.
 
